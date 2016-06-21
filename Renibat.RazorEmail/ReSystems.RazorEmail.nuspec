@@ -3,7 +3,7 @@
   <metadata>
     <id>Renibat.RazorEmail</id>
     <version>1.0.0</version>
-    <authors>RE-Systems</authors>
+    <authors>Rob Tabiner</authors>
     <description>Library to allow use of Razor syntax to build emails.</description>
   </metadata>
   <files>

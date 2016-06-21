@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <metadata>
+    <id>Renibat.RazorEmail</id>
+    <version>1.0.0</version>
+    <authors>RE-Systems</authors>
+    <description>Library to allow use of Razor syntax to build emails.</description>
+  </metadata>
+  <files>
+    <file src="bin\Release\*.dll" target="lib" />
+    <file src="bin\Release\*.pdb" target="lib" />
+  </files>
+</package>
